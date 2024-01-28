@@ -21,6 +21,10 @@ header {
     padding: 20px;
 }
 
+.image-container {
+    position: relative;
+    overflow: hidden;
+}
 
 .image-container img {
     width: 100%; /* Make the image fill the container width */
